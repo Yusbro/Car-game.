@@ -1,0 +1,16 @@
+{
+    "HONEY_CAR": 0.8333330154418945,
+    "PLATFORM": -3.333329916000366,
+    "PLAYER": 19.04759979248047,
+    "center_offset": 3.5714282989501953,
+    "chunk_count": 6.666666507720947,
+    "destroy_point": -4.761904716491699,
+    "disapper_limit": -0.4047619104385376,
+    "lane_padding": 1.4285712242126465,
+    "left_speed": 10.0,
+    "model_offset": 23.809524536132813,
+    "player_position_z": -3.571429967880249,
+    "player_speed": 0.2023809552192688,
+    "right_speed": 10.476190567016602,
+    "spawn_point": 19.64285659790039
+}
